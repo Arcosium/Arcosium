@@ -13,7 +13,7 @@ I build tools for the investment edge. I designed and distributed the KRX Quant 
 
 🏛️ On the Leadership & Finance side,
 
-As the 26th President of the Hanyang Economics Association (HEA), I led 1,400+ members, establishing research standards and fostering quantitative rigor. Currently, I'm preparing for the CFA Level 1 and set to join the Korea Investment Partners (KIP) Investment Support team in March 2026.
+As the 26th President of the Hanyang Economics Association (HEA), I established research standards and fostering quantitative rigor. Currently, I'm preparing for the CFA Level 1 and set to join the Korea Investment Partners (KIP) Investment Support team in March 2026.
 
 💪 Skills
 
