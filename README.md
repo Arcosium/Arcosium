@@ -26,14 +26,3 @@ Finance: Quantitative Analysis (VAR, T-VAR, IRF), Portfolio Management, Market M
 Tech: Python (Pandas, NumPy, Statsmodels), Git, AI-driven Data Processing
 
 Soft Skills: Organizational Leadership, Strategic Planning, Technical Writing
-
-
-#### Security
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
-![Authelia](https://img.shields.io/badge/Authelia-1A1F6C?style=flat-square&logo=authelia&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat-square&logo=falco&logoColor=white)
-
-#### Focus & Strengths
-- High-availability (HA) architecture design and implementation
-- On-premise infrastructure setup and management
-- Proactive error detection and alerting through observability pipelines
