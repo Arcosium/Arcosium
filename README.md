@@ -61,6 +61,38 @@
 | AI말평 채점 시스템 | 공개된 평가 규칙과 리더보드 실측이 일치하는지 역산 | 11,581편 말뭉치, 3개 채점 모델 앙상블, 근거 생성, Docker API와 리허설 체계 |
 | 포용이(Poyong) | 정책을 못 찾은 상담도 버리지 않고 미매칭 사유로 구조화 | 시민용 정책금융 추천과 익명 신호 기반 정부 대시보드를 웹·Android로 연결 |
 
+### 사이트의 현재 프로젝트
+
+- [QuantInSight](https://quantinsight.ai-ve.uk)
+- [GenomicWQB](https://iqc.ai-ve.uk)
+- [Poyong (Finnect)](https://poyong.ai-ve.uk)
+- [FestiCast — 축제 기상청](https://tripcast.ai-ve.uk)
+- [PensionIC](https://pensionic.ai-ve.uk)
+- [금융 AI 보안비서](https://aisecurity.ai-ve.uk)
+- [ArkInsight](https://arkinsight.ai-ve.uk)
+- [술게임 시뮬레이터 🍻](https://mtsimulator.ai-ve.uk)
+- [VC News 📰](https://vcnews.ai-ve.uk)
+- [Image Generator 🎨](https://imggen.ai-ve.uk)
+- [아르카's Blog ✍️](https://arka.ai-ve.uk)
+- [ShiftProof](https://shiftproof.ai-ve.uk)
+- [쏙똑경제 유튜브 📺](https://www.youtube.com/@%EC%8F%99%EB%98%91%EA%B2%BD%EC%A0%9C)
+
+### 사이트의 현재 연구·글
+
+- [KRX 금 시장의 비효율성과 전이 메커니즘 분석(Extended ver.)](https://kimhyunho.ai-ve.uk)
+- [환율 쇼크와 KRX 금 시장 비효율성(Original ver.)](https://kimhyunho.ai-ve.uk)
+- [급등 속도는 폭락 깊이를 예고하는가](https://kimhyunho.ai-ve.uk)
+- [주가 단기 등락 예측을 위한 다중 기술적 지표의 최적 조합 분석](https://kimhyunho.ai-ve.uk)
+- [기업의 금융 제약과 통화 정책의 비대칭적 투자 파급 효과](https://kimhyunho.ai-ve.uk)
+- [성별 노동 투입에 따른 경제 성장의 정책적 시사](https://kimhyunho.ai-ve.uk)
+- [2026년 통화 정책 보고서](https://kimhyunho.ai-ve.uk)
+- [트레블월렛 VC 분석 보고서](https://kimhyunho.ai-ve.uk)
+- [개인 투자자의 쏠림 거래가 ETF 가격 괴리율에 미치는 영향](https://kimhyunho.ai-ve.uk)
+- [금융자산 다각화 결정요인 분석과 교육방법별 효과 추정](https://kimhyunho.ai-ve.uk)
+- [Z세대와 밀레니얼 세대의 보상 선호도 차이 및 동기부여 효과 비교](https://kimhyunho.ai-ve.uk)
+- [무상증자 공시의 시장반응과 개인투자자 Attention](https://kimhyunho.ai-ve.uk)
+- [AI 이후의 개인](https://kimhyunho.ai-ve.uk)
+
 ## 자격과 도구
 
 TOEIC 985점 · 투자자산운용사 · 재무빅데이터분석사 2급 · 회계관리 1급 · 컴퓨터활용능력 2급 · ITQ OA Master · 데이터분석 준전문가(ADsP) · AI Business Test 2급 · 데이터분석 전문관리사 1급 · NCS 금융회계능력인증 1급
