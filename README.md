@@ -74,7 +74,7 @@
 - [GenomicWQB](https://iqc.ai-ve.uk)
 - [Poyong (재정데이터분석경진대회)](https://poyong.ai-ve.uk)
 - [FestiCast — 축제 기상청](https://tripcast.ai-ve.uk)
-- [더 라스트 보트](https://thelastvote.ai-ve.uk)
+- [The Last Vote](https://thelastvote.ai-ve.uk)
 - [Autozoom](https://autozoom.ai-ve.uk)
 - [ArkInsight](https://arkinsight.ai-ve.uk)
 - [술게임 시뮬레이터 🍻](https://mtsimulator.ai-ve.uk)
